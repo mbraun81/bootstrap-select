@@ -10,5 +10,7 @@
     countSelectedText: '{0} von {1} ausgewählt',
     maxOptionsText: ['Limit erreicht ({n} {var} max.)', 'Gruppen-Limit erreicht ({n} {var} max.)', ['Eintrag', 'Einträge']],
     multipleSeparator: ', '
+    selectAllText: 'Alle auswählen',
+    deselectAllText: 'Alle abwählen',
   };
 })(jQuery);
